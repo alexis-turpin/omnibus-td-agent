@@ -20,7 +20,7 @@ $ bundle install --binstubs
 
 ### Build
 
-At first, you should download dependent gems using downloder. This is for avoding broken gem download and reduce the build time by avoiding internet access.
+At first, you should download dependent gems using downloader. This is for avoding broken gem download and reduce the build time by avoiding internet access.
 
 ```shell
 $ bin/gem_downloader core_gems.rb
